@@ -1,8 +1,31 @@
 
 div{
-    border: 1px blue solid;
+    border: 1px #333 solid;
 }
 section{
     background-color: lightgrey;
-    padding: 80px 30px 100px;
+    padding: 80px 40px;
+}
+
+img{
+    /*width:100%;*/
+}
+
+.card{
+    width: 100px;
+}
+.img-card{
+   width: 100%;
+}
+
+.img-feat{
+    widows: 80px;
+    height: 80px;
+    border-radius: 50px;
+}
+#hero{
+    background-image: url();
+    background-size: cover;
+    height: 20vh;
+    text-align: center;
 }
